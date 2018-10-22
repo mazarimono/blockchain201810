@@ -44,3 +44,10 @@ https://cryptozombies.io/en/course/
      
 +++?code=random.sol
 +++?code=event.sol
+
+### どんな知識？？(2)
+#### データ型 addressとMappings
+* address / 言わずと知れた
+* Mappings / データを格納するときに使える方法の一つ。キーバリューストア     
+      
++++?code=mappings.sol
